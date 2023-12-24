@@ -1,0 +1,17 @@
+#container {
+  height: 80%;
+  text-align: center;
+  overflow: auto;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  left: 0;
+  transform: translateY(-50%);
+}
+
+@media screen and (min-width: 768px) {
+  ion-content {
+    width: 70%;
+    align-self: center;
+  }
+}

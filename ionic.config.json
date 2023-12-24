@@ -1,0 +1,7 @@
+{
+  "name": "apaden-mobile-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
